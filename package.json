@@ -1,0 +1,11 @@
+{
+  "name": "metasearcher",
+  "version": "1.0.0",
+  "description": "A metasearch engine trying to better searching experience by including search results from multiple search engines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
